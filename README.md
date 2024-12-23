@@ -2,4 +2,4 @@
 
 ------
 
-![Snippet for review](gimme-joke.gif.gif)
+![Snippet for review](gimme-joke.gif)
